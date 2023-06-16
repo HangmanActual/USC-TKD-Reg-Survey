@@ -151,7 +151,7 @@ body {
     height: 100px;;
     position: relative;
     z-index: 20;
-    margin: 10px auto 0 auto;
+    margin: 10px auto 10px auto;
     /*Flexbox to bottom-align <p> element within*/
     display: flex;
     justify-content: center;
