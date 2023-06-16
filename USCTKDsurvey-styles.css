@@ -166,10 +166,11 @@ body {
         margin: 0;
     }
 
-    a, a:visited {
+    #JWP, #JWP:visited {
         color: white;
+        text-decoration: none;
     }
 
-    a:hover {
+    #JWP:hover {
         color: pink;
     }
